@@ -1,5 +1,1 @@
-[Click Here For The New Page](https://sbsx.odoo.com/m/files)
-## Pugins
-- Vault (Version: 1.7.3) [Download](https://morph-mojang.github.io/Files/Vault.jar)
-## Mods
-- ClientSpoofer (Version: 1.21.11) [Download](https://morph-mojang.github.io/Files/ClientSpoofer-1.21.11-1.4.0.jar)
+# [Click Here To Return To SBS](https://sbsx.odoo.com/m/files)
